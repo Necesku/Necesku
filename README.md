@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm Necesku and I am just a guy that plays Minecraft and Valorant
+- 🌱 I'm currently learning : HTML, CSS, JS
+- 📝 I'm currently working on : My main site (Necesku.github.io)
 
 <!--
 **Necesku/Necesku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
